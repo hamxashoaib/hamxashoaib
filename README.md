@@ -1,4 +1,12 @@
-# 💫 About Me:
+<div align="center">
+
+# Hi there, I'm Hamza Shoaib! 👋
+
+**AI & Machine Learning Enthusiast | Building intelligent systems with Python**
+
+---
+</div>
+  
 🔭 I’m currently building intelligent systems using Python and AI<br>🤝 I’m open to collaborating on innovative AI and automation projects<br>💡 I’m exploring Deep Learning and real-world problem solving<br>🌱 Currently improving my skills in Machine Learning & Data Science<br>💬 Ask me about Python, Machine Learning and AI concepts<br>⚡ Fun fact: I enjoy solving complex problems with simple code
 
 
