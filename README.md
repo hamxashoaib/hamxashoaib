@@ -2,7 +2,7 @@
 
 # Hi there, I'm Hamza Shoaib! 👋
 
-**AI & Machine Learning Enthusiast | Building intelligent systems with Python**
+**AI & ML Engineer | AI Agents & Automation | Python | n8n | APIs | Generative AI**
 
 ---
 </div>
