@@ -24,10 +24,10 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ch-hamza-shoaib"><img src="https://cdn.simpleicons.org/linkedin" width="40" height="40"/></a>
-<a href="https://stackoverflow.com/users/32668957"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="40" height="40"/></a>
-<a href="https://x.com/Hamxa_Shoaib"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="40" height="40"/></a>
-<a href="mailto:hamza.shoaib.9026@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ch-hamza-shoaib)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32668957)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Hamxa_Shoaib)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.shoaib.9026@gmail.com)
 
 </div>
 
@@ -37,19 +37,19 @@
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/keras/D00000" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/numpy/013243" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/pandas/150458" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -65,7 +65,6 @@
 <br>
 
 <img src="https://img.shields.io/github/followers/hamxashoaib?style=for-the-badge&color=58A6FF&labelColor=0d1117"/>
-
 
 </div>
 
