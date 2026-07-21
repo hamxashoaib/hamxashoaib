@@ -65,6 +65,11 @@
 <br>
 
 <img src="https://img.shields.io/github/followers/hamxashoaib?style=for-the-badge&color=58A6FF&labelColor=0d1117"/>
+
+</div>
+<br>
+
+<img src="https://img.shields.io/github/followers/hamxashoaib?style=for-the-badge&color=58A6FF&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&color=58A6FF&labelColor=0d1117&query=public_repos&url=https://api.github.com/users/hamxashoaib"/>
 
 </div>
