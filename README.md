@@ -12,10 +12,10 @@
 
 ## 👋 About Me
 
-🔭 Building intelligent systems and automation workflows using Python, n8n, and AI
-🤝 Open to collaborating on AI agents, automation, and applied ML projects
-💡 Exploring Deep Learning, RAG systems, and real-world problem solving
-💬 Ask me about Python, Machine Learning, RAG pipelines, or workflow automation
+🔭 Building intelligent systems and automation workflows using Python, n8n, and AI<br>
+🤝 Open to collaborating on AI agents, automation, and applied ML projects<br>
+💡 Exploring Deep Learning, RAG systems, and real-world problem solving<br>
+💬 Ask me about Python, Machine Learning, RAG pipelines, or workflow automation<br>
 ⚡ Fun fact: I enjoy turning complex problems into simple, working code
 
 <br>
@@ -58,7 +58,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamxashoaib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamxashoaib&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com/?user=hamxashoaib&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=true"/>
 
 </div>
 
