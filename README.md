@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ch-hamza-shoaib"><img src="https://cdn.simpleicons.org/linkedin/0077B5" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/ch-hamza-shoaib"><img src="https://cdn.simpleicons.org/linkedin" width="40" height="40"/></a>
 <a href="https://stackoverflow.com/users/32668957"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="40" height="40"/></a>
 <a href="https://x.com/Hamxa_Shoaib"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="40" height="40"/></a>
 <a href="mailto:hamza.shoaib.9026@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/></a>
@@ -66,11 +66,6 @@
 
 <img src="https://img.shields.io/github/followers/hamxashoaib?style=for-the-badge&color=58A6FF&labelColor=0d1117"/>
 
-</div>
-<br>
-
-<img src="https://img.shields.io/github/followers/hamxashoaib?style=for-the-badge&color=58A6FF&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&color=58A6FF&labelColor=0d1117&query=public_repos&url=https://api.github.com/users/hamxashoaib"/>
 
 </div>
 
