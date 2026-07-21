@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b263b&height=200&section=header&text=Hamza%20Shoaib&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20GenAI%20%7C%20Automation&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/hamxashoaib/hamxashoaib/main/banner.svg" width="100%"/>
 
 <a href="https://linkedin.com/in/ch-hamza-shoaib">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+Automation+Systems;RAG+Pipelines+%7C+NLP+%7C+Generative+AI;Automating+Workflows+with+n8n+%26+APIs;Open+to+AI%2FML+Engineering+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+Automation+Systems;RAG+Pipelines+%7C+NLP+%7C+Generative+AI;Automating+Workflows+with+n8n+%26+APIs" alt="Typing SVG" />
 </a>
 
 </div>
@@ -65,7 +65,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hamxashoaib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-trophies.vercel.app/?username=hamxashoaib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </div>
 
 ## ✍️ Random Dev Quote
@@ -85,7 +85,5 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamxashoaib&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b263b,100:0d1b2a&height=100&section=footer" width="100%"/>
 
 </div>
