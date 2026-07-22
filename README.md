@@ -65,14 +65,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Hamza's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=false" alt="Hamza's GitHub Streak" />
-</div>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hamxashoaib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamxashoaib&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Hamza's Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamxashoaib&theme=github_dark"/>
+
+<br>
+
+<img src="https://img.shields.io/github/followers/hamxashoaib?style=for-the-badge&color=58A6FF&labelColor=0d1117"/>
+
 </div>
 
 ## 🏆 Trophies
