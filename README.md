@@ -59,9 +59,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-<img src="https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-<img src="profile-summary-card-output/github_dark/3-stats.svg" width="400" alt="GitHub Cross Stats"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+![](https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=false)<br/>
+![](profile-summary-card-output/github_dark/3-stats.svg)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
