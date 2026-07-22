@@ -32,7 +32,7 @@
 
 ## 💻 Tech Stack
 
-**Languages & Databases**  
+### **Languages & Databases**  
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -40,7 +40,7 @@
 
 <br>
 
-**AI, Machine Learning & Data Science**  
+### **AI, Machine Learning & Data Science**  
 <div align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -52,7 +52,7 @@
 
 <br>
 
-**Automation, Deployment & Tools**  
+### **Automation, Deployment & Tools**  
 <div align="center">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
