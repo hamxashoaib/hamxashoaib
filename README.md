@@ -67,16 +67,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Hamza's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=false" alt="Hamza's GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Hamza's Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+</p>
 
 ## 🏆 Trophies
 
