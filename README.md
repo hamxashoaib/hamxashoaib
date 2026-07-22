@@ -59,12 +59,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hamxashoaib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamxashoaib&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://img.shields.io/github/followers/hamxashoaib?style=for-the-badge&color=58A6FF&labelColor=0d1117"/>
+![](https://github-readme-stats.shion.dev/api?username=adeelmukhtar01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=adeelmukhtar01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=adeelmukhtar01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
