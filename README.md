@@ -61,7 +61,6 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=false)<br/>
-![](profile-summary-card-output/github_dark/3-stats.svg)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
