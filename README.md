@@ -65,11 +65,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Hamza's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=false" alt="Hamza's GitHub Streak" />
+</div>
 
-![](https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Hamza's Top Languages" />
 </div>
 
 ## 🏆 Trophies
