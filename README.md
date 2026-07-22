@@ -59,10 +59,10 @@
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=false)<br/>
-![](profile-summary-card-output/github_dark/3-stats.svg)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+<img src="https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+<img src="https://raw.githubusercontent.com/hamxashoaib/hamxashoaib/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Cross Stats" /><br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 
