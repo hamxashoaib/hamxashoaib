@@ -44,6 +44,8 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 🛠️ Tech Stack and Tools
 
 <table>
@@ -52,14 +54,14 @@
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/langchain/ffffff" height="42"/><br/>LangChain</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42"/><br/>Hugging Face</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/googlegemini/8E75C2" height="42"/><br/>Gemini API</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/openai/ffffff" height="42"/><br/>OpenAI</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/openai/412991" height="42"/><br/>OpenAI</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/databricks/FF3621" height="42"/><br/>Vector Search</td>
 </tr>
 <tr>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" height="46"/><br/>FastAPI</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42"/><br/>n8n</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/zapier/FF4A00" height="42"/><br/>Zapier</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/webhooks/FF6C37" height="42"/><br/>Webhooks</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/webhook/6366F1" height="42"/><br/>Webhooks</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman" height="46"/><br/>Postman</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" height="46"/><br/>Docker</td>
 </tr>
@@ -84,8 +86,8 @@
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=bash" height="46"/><br/>Bash</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" height="46"/><br/>C++</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" height="46"/><br/>HTML5</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" height="46"/><br/>CSS3</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" height="46"/><br/>JavaScript</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" height="46"/><br/>PostgreSQL</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/json/ffffff" height="42"/><br/>REST APIs</td>
 </tr>
 </table>
 
