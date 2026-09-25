@@ -40,7 +40,7 @@
       <sub><b>Python</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/parrot-icon.svg" width="48" height="48" alt="LangChain" /><br />
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" /><br />
       <sub><b>LangChain</b></sub>
     </td>
     <td align="center" width="96">
@@ -52,7 +52,7 @@
       <sub><b>Gemini</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/tavily/FFFFFF" width="48" height="48" alt="Tavily" /><br />
+      <img src="https://cdn.simpleicons.org/tavily" width="48" height="48" alt="Tavily" /><br />
       <sub><b>Tavily</b></sub>
     </td>
   </tr>
@@ -110,7 +110,7 @@
       <sub><b>MySQL</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma.svg" width="48" height="48" alt="ChromaDB" /><br />
+      <img src="https://cdn.simpleicons.org/chroma/FF7043" width="48" height="48" alt="ChromaDB" /><br />
       <sub><b>ChromaDB</b></sub>
     </td>
   </tr>
