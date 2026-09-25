@@ -38,58 +38,55 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" />
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,html" height="45" />
 </p>
 
 ---
 
 ### 🤖 Generative AI, LLMs & Agentic Systems
-<p align="center">
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" />
+<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <img src="https://cdn.simpleicons.org/langchain/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" />
   <img src="https://cdn.simpleicons.org/googlegemini/8E75C2" height="40" />
-  <img src="https://cdn.simpleicons.org/openai/412991" height="40" />
+  <img src="https://cdn.simpleicons.org/openai/ffffff" height="40" />
 </p>
 
 ---
 
 ### ⚙️ Backend Engineering & APIs
-<p align="center">
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" />
+<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <img src="https://skillicons.dev/icons?i=fastapi,postman" height="45" />
 </p>
 
 ---
 
 ### 🔄 Automation & AI Workflows
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" />
   <img src="https://cdn.simpleicons.org/zapier/FF4A00" height="40" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" />
 </p>
 
 ---
 
 ### 🗄️ Databases & Vector Search
 <p align="center">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
 </p>
 
 ---
 
 ### 🔬 Machine Learning, Deep Learning & NLP
-<p align="center">
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" />
+<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="45" />
+  <img src="https://cdn.simpleicons.org/pandas/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/numpy/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" />
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" />
 </p>
@@ -97,13 +94,9 @@
 ---
 
 ### 🛠️ DevOps, Prototyping & Tools
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux" height="45" />
 </p>
 
 </div>
