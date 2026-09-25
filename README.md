@@ -73,7 +73,7 @@
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" height="46"/><br/>Python</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" height="46"/><br/>C++</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" height="46"/><br/>HTML5</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=numpy" height="46"/><br/>NumPy</td>
+<td align="center" width="110"><img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42"/><br/>NumPy</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas" height="42"/><br/>Pandas</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" height="46"/><br/>Scikit-learn</td>
 </tr>
@@ -120,7 +120,6 @@
 </table>
 
 </div>
-</br>
 
 <div align="center">
 
