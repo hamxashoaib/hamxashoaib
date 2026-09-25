@@ -142,8 +142,8 @@
   <table>
     <tr>
 <div align="center">
-<img width="495" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&theme=dark&hide_border=false" alt="Top Languages" />
-    </tr>
+<img width="495" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&layout=pie&theme=dark&hide_border=false&hide=Jupyter%20Notebook" alt="Most Used Languages" />
+</tr>
   </table>
 </div>
 
