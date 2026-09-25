@@ -12,11 +12,11 @@
 
 ## 👋 About Me
 
-🔭 Building intelligent systems and automation workflows using Python, n8n, and AI<br>
-🤝 Open to collaborating on AI agents, automation, and applied ML projects<br>
-💡 Exploring Deep Learning, RAG systems, and real-world problem solving<br>
-💬 Ask me about Python, Machine Learning, RAG pipelines, or workflow automation<br>
-⚡ Fun fact: I enjoy turning complex problems into simple, working code
+🤖 Building AI-powered systems, agents, and automation workflows with Python  
+🧠 Working with LLMs, RAG, Machine Learning, and intelligent AI applications  
+⚙️ Building backend services and AI workflows using FastAPI, LangChain, and n8n  
+🔎 Interested in reliable AI systems, applied ML, and real-world problem solving  
+🚀 Turning ideas and complex problems into practical, working software
 
 <br>
 
@@ -30,38 +30,152 @@
 
 <br>
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 🔤 Languages & Databases  
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</div>
+### 🤖 Generative AI, LLMs & Agentic Systems
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br />
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/parrot-icon.svg" width="48" height="48" alt="LangChain" /><br />
+      <sub><b>LangChain</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" /><br />
+      <sub><b>Hugging Face</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/googlegemini/8E75C2" width="48" height="48" alt="Gemini" /><br />
+      <sub><b>Gemini</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/tavily/FFFFFF" width="48" height="48" alt="Tavily" /><br />
+      <sub><b>Tavily</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG%20Systems-111827?style=for-the-badge" height="28" alt="RAG Systems" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" height="28" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-111827?style=for-the-badge" height="28" alt="LLM Applications" />
+</p>
 
-### 🤖 AI, Machine Learning & Data Science  
-<div align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-</div>
+### ⚙️ Backend Engineering & APIs
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br />
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br />
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/webhooks/FF6C37" width="48" height="48" alt="Webhooks" /><br />
+      <sub><b>Webhooks</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" height="28" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/API%20Integration-111827?style=for-the-badge" height="28" alt="API Integration" />
+</p>
 
-### ⚙️ Automation, Deployment & Tools  
-<div align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+### 🔄 Automation & AI Workflows
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="48" height="48" alt="n8n" /><br />
+      <sub><b>n8n</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Workflow%20Automation-111827?style=for-the-badge" height="28" alt="Workflow Automation" />
+  <img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge" height="28" alt="AI Automation" />
+</p>
+
+### 🗄️ Databases & Vector Search
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br />
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma.svg" width="48" height="48" alt="ChromaDB" /><br />
+      <sub><b>ChromaDB</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🔬 Machine Learning, Deep Learning & NLP
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br />
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br />
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=scikitlearn" width="48" height="48" alt="Scikit-Learn" /><br />
+      <sub><b>Scikit-Learn</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" /><br />
+      <sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" /><br />
+      <sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" /><br />
+      <sub><b>Jupyter</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge" height="28" alt="Transformers" />
+  <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge" height="28" alt="NLP" />
+</p>
+
+### 🛠️ DevOps, Prototyping & Tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br />
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" /><br />
+      <sub><b>Streamlit</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br />
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br />
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br />
+      <sub><b>Bash / CLI</b></sub>
+    </td>
+  </tr>
+</table>
 </div>
 <br>
 
