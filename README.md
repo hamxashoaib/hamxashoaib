@@ -1,26 +1,26 @@
+#
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/hamxashoaib/hamxashoaib/main/banner.svg" width="100%"/>
-
-<a href="https://linkedin.com/in/ch-hamza-shoaib">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+RAG+Pipelines;Machine+Learning+%7C+NLP+%7C+Generative+AI;Automating+Workflows+with+n8n+%26+APIs" alt="Typing SVG" />
-</a>
-
+  <img src="https://raw.githubusercontent.com/hamxashoaib/hamxashoaib/main/banner.svg" width="100%"/>
+  <br/><br/>
+  <a href="https://linkedin.com/in/ch-hamza-shoaib">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+RAG+Pipelines;Machine+Learning+%7C+NLP+%7C+Generative+AI;Automating+Workflows+with+n8n+%26+APIs" alt="Typing SVG" />
+  </a>
 </div>
 
-<br>
+---
 
-## 👋 About Me
+### 👋 About Me
 
-🤖 Building AI-powered systems, agents, and automation workflows with Python  
-🧠 Working with LLMs, RAG, Machine Learning, and Intelligent AI applications  
-⚙️ Building backend services and AI workflows using FastAPI, LangChain, and n8n  
-🔎 Interested in reliable AI systems, applied ML, and real-world problem  
-🚀 Turning ideas and complex problems into practical, working software
+- 🤖 Building AI-powered systems, agents, and automation workflows with Python
+- 🧠 Working with LLMs, RAG, Machine Learning, and intelligent AI applications
+- ⚙️ Building backend services and AI workflows using FastAPI, LangChain, and n8n
+- 🔎 Interested in reliable AI systems, applied ML, and real-world problems
+- 🚀 Turning ideas and complex problems into practical, working software
 
-<br>
+---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/ch-hamza-shoaib" target="_blank">
@@ -29,7 +29,7 @@
   <a href="mailto:hamza.shoaib.9026@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="Email" />
   </a>
-   <a href="https://hamzashoaib.dev" target="_blank">
+  <a href="https://hamzashoaib.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-006CFF?style=for-the-badge&logo=safari&logoColor=white" height="34" alt="Portfolio" />
   </a>
   <a href="https://stackoverflow.com/users/32668957" target="_blank">
@@ -37,10 +37,11 @@
   </a>
 </p>
 
-<br>
+---
 
-## 🛠️ Tech Stack and Tools
+<h2 align="center">🛠️ Tech Stack and Tools</h2>
 
+<div align="center">
 <table>
 <!-- 1. Programming & 2. Data Foundation & 3. Machine Learning -->
 <tr>
@@ -92,13 +93,13 @@
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" height="46"/><br/>GitHub</td>
 </tr>
 </table>
-
 </div>
 
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
-
-## 📊 GitHub Stats
-
 <table>
   <tr>
     <td align="center">
@@ -116,12 +117,13 @@
     </td>
   </tr>
 </table>
-
 </div>
+
+---
+
+<h2 align="center">🧩 LeetCode Stats</h2>
+
 <div align="center">
-
-## 🧩 LeetCode Stats
-
 <table>
   <tr>
     <td align="center">
@@ -131,37 +133,36 @@
     </td>
   </tr>
 </table>
-
 </div>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=hamxashoaib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</div>
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/hamxashoaib/hamxashoaib/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<br>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=6000&lines=Thanks+for+visiting!+✌;+Shoot+me+message+on+LinkedIn!;" />
-</h3>
-
 
 ---
 
+<h2 align="center">🏆 Trophies</h2>
+
 <div align="center">
+  <img src="https://github-trophies.vercel.app/?username=hamxashoaib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hamxashoaib&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+---
 
+<h2 align="center">✍️ Random Dev Quote</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hamxashoaib/hamxashoaib/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&center=true&vCenter=true&width=550&height=60&duration=6000&lines=Thanks+for+visiting!+✌;Shoot+me+a+message+on+LinkedIn!;" alt="Ending Typing SVG" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=hamxashoaib&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
