@@ -181,12 +181,12 @@
 
 <br>
 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=6000&lines=Thanks+for+visiting!+✌;+shoot+me+massage+on+Linkedin!;" />
+</h3>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamxashoaib&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=6000&lines=Thanks+for+visiting!+✌;+shoot+me+massage+on+Linkedin!;" />
-</h3>
