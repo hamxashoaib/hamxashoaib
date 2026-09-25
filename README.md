@@ -48,48 +48,59 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 🛠️ Tech Stack and Tools
 
 <table>
+<!-- Row 1: Languages & Core Foundations -->
 <tr>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" height="46"/><br/>Python</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/langchain/ffffff" height="42"/><br/>LangChain</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42"/><br/>Hugging Face</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/googlegemini/8E75C2" height="42"/><br/>Gemini API</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/pytorchlightning/792EE5" height="42"/><br/>Lightning</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/databricks/FF3621" height="42"/><br/>Vector Search</td>
-</tr>
-<tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" height="46"/><br/>FastAPI</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42"/><br/>n8n</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/zapier/FF4A00" height="42"/><br/>Zapier</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/keras/D00000" height="42"/><br/>Deep Learning</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman" height="46"/><br/>Postman</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" height="46"/><br/>Docker</td>
-</tr>
-<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" height="46"/><br/>C++</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" height="46"/><br/>HTML5</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=bash" height="46"/><br/>Bash</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" height="46"/><br/>PyTorch</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/lightning/792EE5" height="42"/><br/>Lightning</td>
+</tr>
+
+<!-- Row 2: ML & Deep Learning Libraries -->
+<tr>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" height="46"/><br/>TensorFlow</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/keras/D00000" height="42"/><br/>Deep Learning</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" height="46"/><br/>Scikit-learn</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas/ffffff" height="42"/><br/>Pandas</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/numpy/ffffff" height="42"/><br/>NumPy</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" height="46"/><br/>MySQL</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/langchain/ffffff" height="42"/><br/>LangChain</td>
 </tr>
+
+<!-- Row 3: GenAI, LLMs, APIs & Backend -->
 <tr>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42"/><br/>Hugging Face</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/googlegemini/8E75C2" height="42"/><br/>Gemini API</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/databricks/FF3621" height="42"/><br/>Vector Search</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" height="46"/><br/>FastAPI</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/json/ffffff" height="42"/><br/>REST APIs</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="42"/><br/>Postman</td>
+</tr>
+
+<!-- Row 4: Automation, Databases & Deployment -->
+<tr>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42"/><br/>n8n</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/zapier/FF4A00" height="42"/><br/>Zapier</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" height="46"/><br/>MySQL</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" height="46"/><br/>PostgreSQL</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" height="46"/><br/>Docker</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" height="46"/><br/>Linux</td>
+</tr>
+
+<!-- Row 5: Prototyping, Environments & Tools -->
+<tr>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42"/><br/>Streamlit</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/jupyter/F37626" height="42"/><br/>Jupyter</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="42"/><br/>Google Colab</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42"/><br/>Streamlit</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" height="46"/><br/>VS Code</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" height="46"/><br/>Git</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" height="46"/><br/>GitHub</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" height="46"/><br/>VS Code</td>
-</tr>
-<tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" height="46"/><br/>Linux</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=bash" height="46"/><br/>Bash</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" height="46"/><br/>PostgreSQL</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" height="46"/><br/>C++</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" height="46"/><br/>HTML5</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/json/ffffff" height="42"/><br/>REST APIs</td>
 </tr>
 </table>
 
