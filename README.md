@@ -162,7 +162,9 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&center=true&vCenter=true&width=550&height=60&duration=6000&lines=Thanks+for+visiting!+✌;Shoot+me+a+message+on+LinkedIn!;" alt="Ending Typing SVG" />
-  <br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=550&height=60&duration=6000&lines=Thanks+for+visiting!+✌;Shoot+me+a+message+on+LinkedIn!;" alt="Ending Typing SVG" />
+  <br/>
+  ---
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=hamxashoaib&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
