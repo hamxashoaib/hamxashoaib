@@ -30,10 +30,13 @@
 
 <br>
 
+<div align="center">
+
 ## 🛠️ Tech Stack & Tools
 
 ### 🤖 Generative AI, LLMs & Agentic Systems
-<table>
+
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br />
@@ -52,20 +55,21 @@
       <sub><b>Gemini</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/tavily" width="48" height="48" alt="Tavily" /><br />
+      <img src="https://raw.githubusercontent.com/tavily-ai/tavily-python/main/docs/img/tavily.png" width="48" height="48" alt="Tavily" /><br />
       <sub><b>Tavily</b></sub>
     </td>
   </tr>
 </table>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/RAG%20Systems-111827?style=for-the-badge" height="28" alt="RAG Systems" />
   <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" height="28" alt="AI Agents" />
   <img src="https://img.shields.io/badge/LLM%20Applications-111827?style=for-the-badge" height="28" alt="LLM Applications" />
 </p>
 
 ### ⚙️ Backend Engineering & APIs
-<table>
+
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br />
@@ -76,19 +80,20 @@
       <sub><b>Postman</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/webhooks/FF6C37" width="48" height="48" alt="Webhooks" /><br />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Webhooks_logo.svg" width="48" height="48" alt="Webhooks" /><br />
       <sub><b>Webhooks</b></sub>
     </td>
   </tr>
 </table>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" height="28" alt="REST APIs" />
   <img src="https://img.shields.io/badge/API%20Integration-111827?style=for-the-badge" height="28" alt="API Integration" />
 </p>
 
 ### 🔄 Automation & AI Workflows
-<table>
+
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="48" height="48" alt="n8n" /><br />
@@ -97,27 +102,29 @@
   </tr>
 </table>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Workflow%20Automation-111827?style=for-the-badge" height="28" alt="Workflow Automation" />
   <img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge" height="28" alt="AI Automation" />
 </p>
 
 ### 🗄️ Databases & Vector Search
-<table>
+
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br />
       <sub><b>MySQL</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/chroma/FF7043" width="48" height="48" alt="ChromaDB" /><br />
+      <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma.png" width="48" height="48" alt="ChromaDB" /><br />
       <sub><b>ChromaDB</b></sub>
     </td>
   </tr>
 </table>
 
 ### 🔬 Machine Learning, Deep Learning & NLP
-<table>
+
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br />
@@ -146,13 +153,14 @@
   </tr>
 </table>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge" height="28" alt="Transformers" />
   <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge" height="28" alt="NLP" />
 </p>
 
 ### 🛠️ DevOps, Prototyping & Tools
-<table>
+
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br />
@@ -176,6 +184,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 </div>
 <br>
 
