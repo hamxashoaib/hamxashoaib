@@ -121,30 +121,28 @@
 </div>
 <br>
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img width="495" src="https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img width="495" src="https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=false" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  <br>
-<div align="center">
-<div align="center">
-  <table>
-    <tr>
-<div align="center">
-<img width="495" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&layout=pie&theme=dark&hide_border=false&hide=Jupyter%20Notebook" alt="Most Used Languages" />
-</tr>
-  </table>
+<table>
+  <tr>
+    <td align="center">
+      <img width="495" src="https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="495" src="https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="495" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&layout=pie&theme=dark&hide_border=true&hide=Jupyter%20Notebook" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ## 🏆 Trophies
