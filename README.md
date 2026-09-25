@@ -142,8 +142,7 @@
   <table>
     <tr>
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&layout=pie&theme=dark&hide_border=true" alt="Most Used Languages" />
-</div>      </td>
+<img width="495" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&theme=dark&hide_border=false" alt="Top Languages" />
     </tr>
   </table>
 </div>
