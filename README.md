@@ -36,105 +36,74 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,html" height="48" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" />
 </p>
 
 ---
 
 ### 🤖 Generative AI, LLMs & Agentic Systems
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="32" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Tavily_Search-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" height="32" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RAG_Pipelines-2563EB?style=flat-square" height="24" />
-  <img src="https://img.shields.io/badge/Autonomous_AI_Agents-0D9488?style=flat-square" height="24" />
-  <img src="https://img.shields.io/badge/LLM_Applications-4F46E5?style=flat-square" height="24" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75C2" height="40" />
+  <img src="https://cdn.simpleicons.org/openai/412991" height="40" />
 </p>
 
 ---
 
 ### ⚙️ Backend Engineering & APIs
-
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Webhooks-6366F1?style=for-the-badge&logo=webhook&logoColor=white" height="32" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-334155?style=flat-square" height="24" />
-  <img src="https://img.shields.io/badge/API_Integration-334155?style=flat-square" height="24" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" />
 </p>
 
 ---
 
 ### 🔄 Automation & AI Workflows
-
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Workflow_Automation-059669?style=flat-square" height="24" />
-  <img src="https://img.shields.io/badge/Event_Driven_Systems-059669?style=flat-square" height="24" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" />
+  <img src="https://cdn.simpleicons.org/zapier/FF4A00" height="40" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" />
 </p>
 
 ---
 
 ### 🗄️ Databases & Vector Search
-
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/ChromaDB-FC6D26?style=for-the-badge&logo=buffer&logoColor=white" height="32" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" />
 </p>
 
 ---
 
 ### 🔬 Machine Learning, Deep Learning & NLP
-
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="32" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Transformers-7C3AED?style=flat-square" height="24" />
-  <img src="https://img.shields.io/badge/NLP_Pipelines-7C3AED?style=flat-square" height="24" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" />
 </p>
 
 ---
 
 ### 🛠️ DevOps, Prototyping & Tools
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" />
 </p>
 
 </div>
