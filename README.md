@@ -147,15 +147,19 @@
 
 <div align="center">
 
-
 ## 🧩 LeetCode Stats
 
-<a href="https://leetcode.com/u/hamzashoaib/" target="_blank">
-<img width="495" src="https://leetcard.jacoblin.cool/hamzashoaib?theme=dark&font=source_code_pro" alt="LeetCode Stats" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/hamzashoaib/" target="_blank">
+        <img width="495" src="https://leetcard.jacoblin.cool/hamzashoaib?theme=dark&font=source_code_pro" alt="LeetCode Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
-
 
 ## 🏆 Trophies
 
