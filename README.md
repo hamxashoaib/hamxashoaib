@@ -63,6 +63,8 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 🛠️ Tech Stack and Tools
 
 <table>
@@ -71,8 +73,8 @@
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" height="46"/><br/>Python</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" height="46"/><br/>C++</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" height="46"/><br/>HTML5</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/numpy/ffffff" height="42"/><br/>NumPy</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas/ffffff" height="42"/><br/>Pandas</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=numpy" height="46"/><br/>NumPy</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas" height="42"/><br/>Pandas</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" height="46"/><br/>Scikit-learn</td>
 </tr>
 
@@ -83,7 +85,7 @@
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/keras/D00000" height="42"/><br/>Deep Learning</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/lightning/792EE5" height="42"/><br/>Lightning</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42"/><br/>Hugging Face</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/langchain/ffffff" height="42"/><br/>LangChain</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/langchain/auto" height="42"/><br/>LangChain</td>
 </tr>
 
 <!-- 5. LLM / GenAI (cont.) & 6. Backend & APIs & 7. Start of Automation -->
@@ -91,7 +93,7 @@
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/googlegemini/8E75C2" height="42"/><br/>Gemini API</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/databricks/FF3621" height="42"/><br/>Vector Search</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" height="46"/><br/>FastAPI</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/json/ffffff" height="42"/><br/>REST APIs</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/openapiinitiative/auto" height="42"/><br/>REST APIs</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="42"/><br/>Postman</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42"/><br/>n8n</td>
 </tr>
@@ -118,8 +120,7 @@
 </table>
 
 </div>
-</div>
-<br>
+</br>
 
 <div align="center">
 
