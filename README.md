@@ -42,44 +42,50 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 🛠️ Tech Stack and Tools
 
 <table>
 <tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" height="48"/><br/>Python</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" height="48"/><br/>C++</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" height="48"/><br/>HTML5</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" height="46"/><br/>Python</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/langchain/ffffff" height="42"/><br/>LangChain</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42"/><br/>Hugging Face</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/googlegemini/8E75C2" height="42"/><br/>Gemini API</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/openai/ffffff" height="42"/><br/>OpenAI</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/databricks/FF3621" height="42"/><br/>Vector Search</td>
 </tr>
 <tr>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/openai/ffffff" height="42"/><br/>OpenAI</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" height="46"/><br/>FastAPI</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42"/><br/>n8n</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/zapier/FF4A00" height="42"/><br/>Zapier</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" height="48"/><br/>Docker</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" height="48"/><br/>FastAPI</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman" height="48"/><br/>Postman</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/webhooks/FF6C37" height="42"/><br/>Webhooks</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman" height="46"/><br/>Postman</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" height="46"/><br/>Docker</td>
 </tr>
 <tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" height="48"/><br/>MySQL</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" height="48"/><br/>PyTorch</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" height="48"/><br/>TensorFlow</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" height="48"/><br/>Scikit-learn</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" height="46"/><br/>PyTorch</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" height="46"/><br/>TensorFlow</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" height="46"/><br/>Scikit-learn</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas/ffffff" height="42"/><br/>Pandas</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/numpy/ffffff" height="42"/><br/>NumPy</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" height="46"/><br/>MySQL</td>
 </tr>
 <tr>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/jupyter/F37626" height="42"/><br/>Jupyter</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="42"/><br/>Google Colab</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42"/><br/>Streamlit</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" height="48"/><br/>Git</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" height="48"/><br/>GitHub</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" height="48"/><br/>VS Code</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" height="46"/><br/>Git</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" height="46"/><br/>GitHub</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" height="46"/><br/>VS Code</td>
 </tr>
 <tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=bash" height="48"/><br/>Bash</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" height="48"/><br/>Linux</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" height="46"/><br/>Linux</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=bash" height="46"/><br/>Bash</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" height="46"/><br/>C++</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" height="46"/><br/>HTML5</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" height="46"/><br/>CSS3</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" height="46"/><br/>JavaScript</td>
 </tr>
 </table>
 
