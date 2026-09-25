@@ -142,10 +142,7 @@
   <table>
     <tr>
       <td align="center">
-        <img width="400" src="https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img width="340" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&layout=pie&theme=dark&hide_border=true" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&layout=pie&theme=dark&hide_border=true&exclude_repo=&hide=Jupyter%20Notebook,HTML,CSS" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
