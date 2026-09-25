@@ -32,158 +32,92 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 🛠️ Tech Stack & Tools
 
 ### 🤖 Generative AI, LLMs & Agentic Systems
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br />
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" /><br />
-      <sub><b>LangChain</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" /><br />
-      <sub><b>Hugging Face</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/googlegemini/8E75C2" width="48" height="48" alt="Gemini" /><br />
-      <sub><b>Gemini</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tavily-ai/tavily-python/main/docs/img/tavily.png" width="48" height="48" alt="Tavily" /><br />
-      <sub><b>Tavily</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="32" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Tavily_Search-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" height="32" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG%20Systems-111827?style=for-the-badge" height="28" alt="RAG Systems" />
-  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" height="28" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-111827?style=for-the-badge" height="28" alt="LLM Applications" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-2563EB?style=flat-square" height="24" />
+  <img src="https://img.shields.io/badge/Autonomous_AI_Agents-0D9488?style=flat-square" height="24" />
+  <img src="https://img.shields.io/badge/LLM_Applications-4F46E5?style=flat-square" height="24" />
 </p>
+
+---
 
 ### ⚙️ Backend Engineering & APIs
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br />
-      <sub><b>FastAPI</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br />
-      <sub><b>Postman</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Webhooks_logo.svg" width="48" height="48" alt="Webhooks" /><br />
-      <sub><b>Webhooks</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Webhooks-6366F1?style=for-the-badge&logo=webhook&logoColor=white" height="32" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" height="28" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/API%20Integration-111827?style=for-the-badge" height="28" alt="API Integration" />
+  <img src="https://img.shields.io/badge/REST_APIs-334155?style=flat-square" height="24" />
+  <img src="https://img.shields.io/badge/API_Integration-334155?style=flat-square" height="24" />
 </p>
+
+---
 
 ### 🔄 Automation & AI Workflows
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="48" height="48" alt="n8n" /><br />
-      <sub><b>n8n</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Workflow%20Automation-111827?style=for-the-badge" height="28" alt="Workflow Automation" />
-  <img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge" height="28" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/Workflow_Automation-059669?style=flat-square" height="24" />
+  <img src="https://img.shields.io/badge/Event_Driven_Systems-059669?style=flat-square" height="24" />
 </p>
+
+---
 
 ### 🗄️ Databases & Vector Search
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br />
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma.png" width="48" height="48" alt="ChromaDB" /><br />
-      <sub><b>ChromaDB</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/ChromaDB-FC6D26?style=for-the-badge&logo=buffer&logoColor=white" height="32" />
+</p>
+
+---
 
 ### 🔬 Machine Learning, Deep Learning & NLP
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br />
-      <sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br />
-      <sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=scikitlearn" width="48" height="48" alt="Scikit-Learn" /><br />
-      <sub><b>Scikit-Learn</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" /><br />
-      <sub><b>Pandas</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" /><br />
-      <sub><b>NumPy</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" /><br />
-      <sub><b>Jupyter</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="32" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge" height="28" alt="Transformers" />
-  <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge" height="28" alt="NLP" />
+  <img src="https://img.shields.io/badge/Transformers-7C3AED?style=flat-square" height="24" />
+  <img src="https://img.shields.io/badge/NLP_Pipelines-7C3AED?style=flat-square" height="24" />
 </p>
+
+---
 
 ### 🛠️ DevOps, Prototyping & Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br />
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" /><br />
-      <sub><b>Streamlit</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br />
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br />
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br />
-      <sub><b>Bash / CLI</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="32" />
+</p>
 
 </div>
 </div>
