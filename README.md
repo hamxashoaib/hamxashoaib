@@ -13,9 +13,9 @@
 ## 👋 About Me
 
 🤖 Building AI-powered systems, agents, and automation workflows with Python  
-🧠 Working with LLMs, RAG, Machine Learning, and intelligent AI applications  
+🧠 Working with LLMs, RAG, Machine Learning, and Intelligent AI applications  
 ⚙️ Building backend services and AI workflows using FastAPI, LangChain, and n8n  
-🔎 Interested in reliable AI systems, applied ML, and real-world problem solving  
+🔎 Interested in reliable AI systems, applied ML, and real-world problem  
 🚀 Turning ideas and complex problems into practical, working software
 
 <br>
@@ -29,41 +29,15 @@
   <a href="mailto:hamza.shoaib.9026@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="Email" />
   </a>
+   <a href="https://hamzashoaib.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-006CFF?style=for-the-badge&logo=safari&logoColor=white" height="34" alt="Portfolio" />
+  </a>
   <a href="https://stackoverflow.com/users/32668957" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" height="34" alt="Stack Overflow" />
   </a>
-  <a href="https://hamzashoaib.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-006CFF?style=for-the-badge&logo=safari&logoColor=white" height="34" alt="Portfolio" />
-  </a>
 </p>
 
-</div>
-
 <br>
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-<div align="center">
 
 ## 🛠️ Tech Stack and Tools
 
@@ -73,7 +47,7 @@
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" height="46"/><br/>Python</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" height="46"/><br/>C++</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" height="46"/><br/>HTML5</td>
-<td align="center" width="110"><img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42"/><br/>NumPy</td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42"/><br/>NumPy</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas" height="42"/><br/>Pandas</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" height="46"/><br/>Scikit-learn</td>
 </tr>
@@ -82,7 +56,7 @@
 <tr>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" height="46"/><br/>PyTorch</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" height="46"/><br/>TensorFlow</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/keras/D00000" height="42"/><br/>Deep Learning</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/keras/D00000" height="42"/><br/>Keras</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/lightning/792EE5" height="42"/><br/>Lightning</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42"/><br/>Hugging Face</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/langchain/auto" height="42"/><br/>LangChain</td>
@@ -180,7 +154,7 @@
 
 <br>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=6000&lines=Thanks+for+visiting!+✌;+Shoot+me+massage+on+Linkedin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=6000&lines=Thanks+for+visiting!+✌;+Shoot+me+message+on+LinkedIn!;" />
 </h3>
 
 
