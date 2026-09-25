@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/hamxashoaib/hamxashoaib/main/banner.svg" width="100%"/>
 
 <a href="https://linkedin.com/in/ch-hamza-shoaib">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+Automation+Systems;RAG+Pipelines+%7C+NLP+%7C+Generative+AI;Automating+Workflows+with+n8n+%26+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+RAG+Pipelines;Machine+Learning+%7C+NLP+%7C+Generative+AI;Automating+Workflows+with+n8n+%26+APIs" alt="Typing SVG" />
 </a>
 
 </div>
