@@ -124,15 +124,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img width="495" src="https://github-readme-stats.shion.dev/api?username=hamxashoaib&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=false" alt="GitHub Streak" />
+        <img width="495" src="https://streak-stats.demolab.com/?user=hamxashoaib&theme=dark&hide_border=false" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
