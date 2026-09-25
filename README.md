@@ -50,50 +50,52 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 🛠️ Tech Stack and Tools
 
 <table>
-<!-- Row 1: Languages & Core Foundations -->
+<!-- 1. Programming & 2. Data Foundation & 3. Machine Learning -->
 <tr>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" height="46"/><br/>Python</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" height="46"/><br/>C++</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" height="46"/><br/>HTML5</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=bash" height="46"/><br/>Bash</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" height="46"/><br/>PyTorch</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/lightning/792EE5" height="42"/><br/>Lightning</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/numpy/ffffff" height="42"/><br/>NumPy</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas/ffffff" height="42"/><br/>Pandas</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" height="46"/><br/>Scikit-learn</td>
 </tr>
 
-<!-- Row 2: ML & Deep Learning Libraries -->
+<!-- 4. Deep Learning & 5. Start of LLM / GenAI -->
 <tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" height="46"/><br/>PyTorch</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" height="46"/><br/>TensorFlow</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/keras/D00000" height="42"/><br/>Deep Learning</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" height="46"/><br/>Scikit-learn</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas/ffffff" height="42"/><br/>Pandas</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/numpy/ffffff" height="42"/><br/>NumPy</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/lightning/792EE5" height="42"/><br/>Lightning</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42"/><br/>Hugging Face</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/langchain/ffffff" height="42"/><br/>LangChain</td>
 </tr>
 
-<!-- Row 3: GenAI, LLMs, APIs & Backend -->
+<!-- 5. LLM / GenAI (cont.) & 6. Backend & APIs & 7. Start of Automation -->
 <tr>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42"/><br/>Hugging Face</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/googlegemini/8E75C2" height="42"/><br/>Gemini API</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/databricks/FF3621" height="42"/><br/>Vector Search</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" height="46"/><br/>FastAPI</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/json/ffffff" height="42"/><br/>REST APIs</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="42"/><br/>Postman</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42"/><br/>n8n</td>
 </tr>
 
-<!-- Row 4: Automation, Databases & Deployment -->
+<!-- 7. Automation (cont.) & 8. Databases & 9. System & Deployment -->
 <tr>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42"/><br/>n8n</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/zapier/FF4A00" height="42"/><br/>Zapier</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" height="46"/><br/>MySQL</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" height="46"/><br/>PostgreSQL</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" height="46"/><br/>Docker</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" height="46"/><br/>Linux</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=bash" height="46"/><br/>Bash</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" height="46"/><br/>Docker</td>
 </tr>
 
-<!-- Row 5: Prototyping, Environments & Tools -->
+<!-- 10. Applications & Development Environments -->
 <tr>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42"/><br/>Streamlit</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/jupyter/F37626" height="42"/><br/>Jupyter</td>
