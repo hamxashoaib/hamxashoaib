@@ -138,13 +138,12 @@
   </tr>
   <tr>
     <td align="center">
-      <img width="495" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&layout=pie&theme=dark&hide_border=true&hide=Jupyter%20Notebook" alt="Most Used Languages" />
+      <img width="495" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamxashoaib&theme=dark&hide_border=true&hide=Jupyter%20Notebook" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
 
 </div>
-
 <div align="center">
 
 ## 🧩 LeetCode Stats
@@ -181,7 +180,7 @@
 
 <br>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=6000&lines=Thanks+for+visiting!+✌;+shoot+me+massage+on+Linkedin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=6000&lines=Thanks+for+visiting!+✌;+Shoot+me+massage+on+Linkedin!;" />
 </h3>
 
 
